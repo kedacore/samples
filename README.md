@@ -1,5 +1,8 @@
 # Samples
 
+## Azure EventHub
+* [Azure Functions NodeJS function with EventHub](https://github.com/t-shama/sample-eventhub-keda)
+
 ## Azure ServiceBus Queue
 * [Azure Functions .NET function with Service Bus Queue](https://github.com/kedacore/sample-dotnet-worker-servicebus-queue)
 
