@@ -1,4 +1,5 @@
-# Samples (If you have any samples to share; please submit a PR to add it to the list!)
+## Samples 
+(If you have any samples to share; please submit a PR to add it to the list!)
 
 #### Azure EventHub
 * [Azure Functions NodeJS function with EventHub](https://github.com/kedacore/sample-javascript-eventhub-azure-function)
