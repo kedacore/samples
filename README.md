@@ -1,6 +1,6 @@
 # Samples
 
-### Azure EventHub
+#### Azure EventHub
 * [Azure Functions NodeJS function with EventHub](https://github.com/kedacore/sample-javascript-eventhub-azure-function)
 
 ### Azure ServiceBus Queue
