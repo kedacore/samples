@@ -10,7 +10,7 @@
 * [Azure Functions Hello World with Azure Queues](https://github.com/kedacore/sample-hello-world-azure-functions)
 
 ### Google Cloud PubSub
-* [Google Cloud PubSub] (https://github.com/kedacore/sample-go-gcppubsub)
+* [Google Cloud PubSub](https://github.com/kedacore/sample-go-gcppubsub)
 
 ### Kafka
 * [Azure Functions and Kafka on Openshift 4](https://github.com/kedacore/keda/wiki/Using-Keda-and-Azure-Functions-on-Openshift-4)
