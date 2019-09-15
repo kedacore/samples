@@ -10,7 +10,7 @@
 #### Azure Queues
 * [Azure Functions Hello World with Azure Queues](https://github.com/kedacore/sample-hello-world-azure-functions)
 
-#### Google Cloud PubSub
+#### GCP PubSub
 * [Google Cloud PubSub](https://github.com/kedacore/sample-go-gcppubsub)
 
 #### Kafka
