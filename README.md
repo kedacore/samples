@@ -4,8 +4,8 @@
 #### Azure EventHub
 * [Azure Functions NodeJS function with EventHub](https://github.com/kedacore/sample-javascript-eventhub-azure-function)
 
-#### Azure ServiceBus Queue
-* [Azure Functions .NET function with Service Bus Queue](https://github.com/kedacore/sample-dotnet-worker-servicebus-queue)
+#### Azure Service Bus Queue
+* [.NET Core 3.0 Worker with Azure Service Bus Queue](https://github.com/kedacore/sample-dotnet-worker-servicebus-queue) *(Owner: @tomkerkhove)*
 
 #### Azure ServiceBus Topic
 * [Service Bus Topic consumed by .NET Core 3 console app](https://github.com/felipecruz91/sample-dotnet-consumer-servicebus-topic)
