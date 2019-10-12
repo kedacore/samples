@@ -8,7 +8,7 @@
 * [Azure Functions .NET function with Service Bus Queue](https://github.com/kedacore/sample-dotnet-worker-servicebus-queue)
 
 #### Azure ServiceBus Topic
-* [Azure Functions .NET function with Service Bus Topic](https://github.com/felipecruz91/sample-dotnet-consumer-servicebus-topic)
+* [Service Bus Topic consumed by .NET Core 3 console app](https://github.com/felipecruz91/sample-dotnet-consumer-servicebus-topic)
 
 #### Azure Queues
 * [Azure Functions Hello World with Azure Queues](https://github.com/kedacore/sample-hello-world-azure-functions)
