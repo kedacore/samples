@@ -24,5 +24,6 @@
 * [RabbitMQ consumed by Go container](https://github.com/kedacore/sample-go-rabbitmq)
 * [RabbitMQ consumed by .NET container](https://github.com/NileshGule/pd-tech-fest-2019#prerequisites)
 
-
+#### Nats Streaming
+* [Nats Streaming with Go](https://github.com/balchua/gonuts)
 
