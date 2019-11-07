@@ -12,6 +12,7 @@
 
 #### Azure Queues
 * [Azure Functions Hello World with Azure Queues](https://github.com/kedacore/sample-hello-world-azure-functions)
+* [Python jobs with Azure Queue Storage](https://github.com/tomconte/sample-keda-queue-jobs)
 
 #### GCP PubSub
 * [Google Cloud PubSub](https://github.com/kedacore/sample-go-gcppubsub)
@@ -23,6 +24,3 @@
 #### RabbitMQ
 * [RabbitMQ consumed by Go container](https://github.com/kedacore/sample-go-rabbitmq)
 * [RabbitMQ consumed by .NET container](https://github.com/NileshGule/pd-tech-fest-2019#prerequisites)
-
-
-
