@@ -20,9 +20,9 @@
 * [Azure Functions and Kafka on Openshift 4](https://github.com/kedacore/keda/wiki/Using-Keda-and-Azure-Functions-on-Openshift-4)
 * [Azure Functions processing tweets from Kafka](https://github.com/kedacore/sample-typescript-kafka-azure-function)
 
+#### Nats Streaming
+* [Nats Streaming with Go](https://github.com/balchua/gonuts)
+  
 #### RabbitMQ
 * [RabbitMQ consumed by Go container](https://github.com/kedacore/sample-go-rabbitmq)
 * [RabbitMQ consumed by .NET container](https://github.com/NileshGule/pd-tech-fest-2019#prerequisites)
-
-
-
