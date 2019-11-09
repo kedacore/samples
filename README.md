@@ -12,6 +12,7 @@
 
 #### Azure Queues
 * [Azure Functions Hello World with Azure Queues](https://github.com/kedacore/sample-hello-world-azure-functions)
+* [Python jobs with Azure Queue Storage](https://github.com/tomconte/sample-keda-queue-jobs)
 
 #### External Scaler
 * [External Scaler using ActiveMQ Artemis broker](https://github.com/balchua/artemis-ext-scaler)
