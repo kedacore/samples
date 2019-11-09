@@ -12,6 +12,10 @@
 
 #### Azure Queues
 * [Azure Functions Hello World with Azure Queues](https://github.com/kedacore/sample-hello-world-azure-functions)
+* [Python jobs with Azure Queue Storage](https://github.com/tomconte/sample-keda-queue-jobs)
+
+#### External Scaler
+* [External Scaler using ActiveMQ Artemis broker](https://github.com/balchua/artemis-ext-scaler)
 
 #### GCP PubSub
 * [Google Cloud PubSub](https://github.com/kedacore/sample-go-gcppubsub)
@@ -20,11 +24,12 @@
 * [Azure Functions and Kafka on Openshift 4](https://github.com/kedacore/keda/wiki/Using-Keda-and-Azure-Functions-on-Openshift-4)
 * [Azure Functions processing tweets from Kafka](https://github.com/kedacore/sample-typescript-kafka-azure-function)
 
+#### Nats Streaming
+* [Nats Streaming with Go](https://github.com/balchua/gonuts)
+  
 #### RabbitMQ
 * [RabbitMQ consumed by Go container](https://github.com/kedacore/sample-go-rabbitmq)
 * [RabbitMQ consumed by .NET container](https://github.com/NileshGule/pd-tech-fest-2019#prerequisites)
 
-#### Azure Functions
-
+#### Dapr and Azure Functions
 * [Dapr, Azure Functions, and KEDA](https://github.com/dapr/samples/tree/master/6.functions-and-keda)
-
