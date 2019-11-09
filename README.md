@@ -30,3 +30,6 @@
 #### RabbitMQ
 * [RabbitMQ consumed by Go container](https://github.com/kedacore/sample-go-rabbitmq)
 * [RabbitMQ consumed by .NET container](https://github.com/NileshGule/pd-tech-fest-2019#prerequisites)
+
+#### Dapr and Azure Functions
+* [Dapr, Azure Functions, and KEDA](https://github.com/dapr/samples/tree/master/6.functions-and-keda)
