@@ -13,6 +13,9 @@
 #### Azure Queues
 * [Azure Functions Hello World with Azure Queues](https://github.com/kedacore/sample-hello-world-azure-functions)
 
+#### External Scaler
+* [External Scaler using ActiveMQ Artemis broker](https://github.com/balchua/artemis-ext-scaler)
+
 #### GCP PubSub
 * [Google Cloud PubSub](https://github.com/kedacore/sample-go-gcppubsub)
 
