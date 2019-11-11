@@ -13,12 +13,14 @@
 #### Azure Queues
 * [Azure Functions Hello World with Azure Queues](https://github.com/kedacore/sample-hello-world-azure-functions)
 * [Python jobs with Azure Queue Storage](https://github.com/tomconte/sample-keda-queue-jobs)
+* [Project Mercury - Kubernetes Job orchestration using KEDA](https://github.com/ross-p-smith/Mercury)
 
 #### External Scaler
 * [External Scaler using ActiveMQ Artemis broker](https://github.com/balchua/artemis-ext-scaler)
 
 #### GCP PubSub
 * [Google Cloud PubSub](https://github.com/kedacore/sample-go-gcppubsub)
+* [Project Mercury - Kubernetes Job orchestration using KEDA](https://github.com/ross-p-smith/Mercury)
 
 #### Kafka
 * [Azure Functions and Kafka on Openshift 4](https://github.com/kedacore/keda/wiki/Using-Keda-and-Azure-Functions-on-Openshift-4)
