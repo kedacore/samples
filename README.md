@@ -9,6 +9,7 @@
 
 #### Azure ServiceBus Topic
 * [Service Bus Topic consumed by .NET Core 3 console app](https://github.com/felipecruz91/sample-dotnet-consumer-servicebus-topic)
+* [Crowd Analytics Platform: Guided workshop that leverages Service Bus Topics + Azure Functions](https://github.com/mohamedsaif/IntelligentExperiences.OnContainers)
 
 #### Azure Queues
 * [Azure Functions Hello World with Azure Queues](https://github.com/kedacore/sample-hello-world-azure-functions)
