@@ -30,6 +30,7 @@
 
 #### Prometheus
 * [Autoscaling Kubernetes apps with Prometheus and KEDA](https://itnext.io/tutorial-auto-scale-your-kubernetes-apps-with-prometheus-and-keda-c6ea460e4642)
+* [Scale up and down a HTTP Triggered function app in Kubernetes using KEDA and Prometheus](https://dev.to/anirudhgarg_99/scale-up-and-down-a-http-triggered-function-app-in-kubernetes-using-keda-4m42)
   
 #### RabbitMQ
 * [RabbitMQ consumed by Go container](https://github.com/kedacore/sample-go-rabbitmq)
