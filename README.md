@@ -27,6 +27,9 @@
 
 #### Nats Streaming
 * [Nats Streaming with Go](https://github.com/balchua/gonuts)
+
+#### Prometheus
+* [Autoscaling Kubernetes apps with Prometheus and KEDA](https://itnext.io/tutorial-auto-scale-your-kubernetes-apps-with-prometheus-and-keda-c6ea460e4642)
   
 #### RabbitMQ
 * [RabbitMQ consumed by Go container](https://github.com/kedacore/sample-go-rabbitmq)
