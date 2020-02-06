@@ -3,6 +3,7 @@
 
 #### Azure EventHub
 * [Azure Functions NodeJS function with EventHub](https://github.com/kedacore/sample-javascript-eventhub-azure-function)
+* [Java Application processing messages from Kafka head on Event Hubs](https://github.com/rasavant-ms/sample-java-kafka-event-hub-scalar)
 
 #### Azure Service Bus Queue
 * [.NET Core 3.0 Worker with Azure Service Bus Queue](https://github.com/kedacore/sample-dotnet-worker-servicebus-queue) *(Owner: @tomkerkhove)*
