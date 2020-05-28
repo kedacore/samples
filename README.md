@@ -19,6 +19,7 @@
 
 #### External Scaler
 * [External Scaler using ActiveMQ Artemis broker](https://github.com/balchua/artemis-ext-scaler)
+* [External Scaler that scales workloads based on Twitch chat messages, built on .NET Core](https://github.com/eashi/kaboom-keda-scaler/)
 
 #### GCP PubSub
 * [Google Cloud PubSub](https://github.com/kedacore/sample-go-gcppubsub)
