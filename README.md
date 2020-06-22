@@ -31,6 +31,7 @@
 
 #### Nats Streaming
 * [Nats Streaming with Go](https://github.com/balchua/gonuts)
+* [Nats streaming with Keda and Virtual Kubelet](https://github.com/infracloudio/keda-vk-aci)
 
 #### MySQL
 * [Using MySQL queries and KEDA](https://github.com/nuclearpinguin/keda-example#mysql-example)
