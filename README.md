@@ -25,6 +25,9 @@
 * [Google Cloud PubSub](https://github.com/kedacore/sample-go-gcppubsub)
 * [.Net Job with Google Cloud PubSub](https://github.com/ross-p-smith/Mercury)
 
+#### IBM MQ
+* [IBM MQ using a Go consumer & producer](https://github.com/ibm-messaging/mq-dev-patterns/tree/master/Go-K8s)
+
 #### Kafka
 * [Autoscaling Dapr service based on queue depth](https://github.com/mchmarny/dapr-demos/tree/master/autoscaling-on-queue)
 * [Azure Functions and Kafka on Openshift 4](https://github.com/kedacore/sample-azure-functions-on-ocp4)
