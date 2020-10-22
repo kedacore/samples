@@ -53,4 +53,4 @@
 * [Using Redis scaler](https://github.com/nuclearpinguin/keda-example#redis-example)
 
 #### Dapr and Azure Functions
-* [Dapr, Azure Functions, and KEDA](https://github.com/dapr/samples/tree/master/6.functions-and-keda)
+* [Dapr, Azure Functions, and KEDA](https://github.com/dapr/samples/tree/master/functions-and-keda)
