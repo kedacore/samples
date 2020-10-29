@@ -1,12 +1,25 @@
 ## Samples 
 (If you have any samples to share; please submit a PR to add it to the list!)
 
-#### Azure Event Hubs
-* [Azure Functions NodeJS function with EventHub](https://github.com/kedacore/sample-javascript-eventhub-azure-function)
-* [Java Application processing messages from Kafka head on Event Hubs](https://github.com/rasavant-ms/sample-java-kafka-event-hub-scalar)
+### KEDA 2.0
 
 #### Azure Service Bus Queue
 * [.NET Core 3.0 Worker with Azure Service Bus Queue](https://github.com/kedacore/sample-dotnet-worker-servicebus-queue) *(Owner: @tomkerkhove)*
+
+#### IBM MQ
+* [IBM MQ using a Go consumer & producer](https://github.com/ibm-messaging/mq-dev-patterns/tree/master/Go-K8s)
+
+#### Kafka
+* [Autoscaling Dapr service based on queue depth](https://github.com/mchmarny/dapr-demos/tree/master/autoscaling-on-queue)
+
+#### RabbitMQ
+* [RabbitMQ consumed by Go container](https://github.com/kedacore/sample-go-rabbitmq/tree/v2)
+
+### KEDA 1.0
+
+#### Azure Event Hubs
+* [Azure Functions NodeJS function with EventHub](https://github.com/kedacore/sample-javascript-eventhub-azure-function)
+* [Java Application processing messages from Kafka head on Event Hubs](https://github.com/rasavant-ms/sample-java-kafka-event-hub-scalar)
 
 #### Azure Service Bus Topic
 * [Service Bus Topic consumed by .NET Core 3 console app](https://github.com/felipecruz91/sample-dotnet-consumer-servicebus-topic)
@@ -25,11 +38,7 @@
 * [Google Cloud PubSub](https://github.com/kedacore/sample-go-gcppubsub)
 * [.Net Job with Google Cloud PubSub](https://github.com/ross-p-smith/Mercury)
 
-#### IBM MQ
-* [IBM MQ using a Go consumer & producer](https://github.com/ibm-messaging/mq-dev-patterns/tree/master/Go-K8s)
-
 #### Kafka
-* [Autoscaling Dapr service based on queue depth](https://github.com/mchmarny/dapr-demos/tree/master/autoscaling-on-queue)
 * [Azure Functions and Kafka on Openshift 4](https://github.com/kedacore/sample-azure-functions-on-ocp4)
 * [Azure Functions processing tweets from Kafka](https://github.com/kedacore/sample-typescript-kafka-azure-function)
 
