@@ -6,11 +6,17 @@
 #### Azure Service Bus Queue
 * [.NET Core 3.0 Worker with Azure Service Bus Queue](https://github.com/kedacore/sample-dotnet-worker-servicebus-queue) *(Owner: @tomkerkhove)*
 
+#### External Scaler
+* [External Scaler using ActiveMQ Artemis broker](https://github.com/balchua/artemis-ext-scaler)
+  
 #### IBM MQ
 * [IBM MQ using a Go consumer & producer](https://github.com/ibm-messaging/mq-dev-patterns/tree/master/Go-K8s)
 
 #### Kafka
 * [Autoscaling Dapr service based on queue depth](https://github.com/mchmarny/dapr-demos/tree/master/autoscaling-on-queue)
+
+#### Nats Streaming
+* [Nats Streaming with Go](https://github.com/balchua/gonuts)
 
 #### RabbitMQ
 * [RabbitMQ consumed by Go container](https://github.com/kedacore/sample-go-rabbitmq/tree/v2)
@@ -31,7 +37,6 @@
 * [.Net Job with Azure Storage Queue](https://github.com/ross-p-smith/Mercury)
 
 #### External Scaler
-* [External Scaler using ActiveMQ Artemis broker](https://github.com/balchua/artemis-ext-scaler)
 * [External Scaler that scales workloads based on Twitch chat messages, built on .NET Core](https://github.com/eashi/kaboom-keda-scaler/)
 
 #### GCP PubSub
@@ -43,7 +48,6 @@
 * [Azure Functions processing tweets from Kafka](https://github.com/kedacore/sample-typescript-kafka-azure-function)
 
 #### Nats Streaming
-* [Nats Streaming with Go](https://github.com/balchua/gonuts)
 * [Nats streaming with Keda and Virtual Kubelet](https://github.com/infracloudio/keda-vk-aci)
 
 #### MySQL
