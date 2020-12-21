@@ -26,7 +26,7 @@
 
 #### RabbitMQ
 
-- [RabbitMQ consumed by Go container](https://github.com/kedacore/sample-go-rabbitmq/tree/v2)
+- [RabbitMQ consumed by Go container](https://github.com/kedacore/sample-go-rabbitmq/)
 - [RabbitMQ consumed by .NET container](https://github.com/NileshGule/pd-tech-fest-2019)
 
 ### KEDA 1.0
