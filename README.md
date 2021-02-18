@@ -7,6 +7,7 @@
 #### Azure Service Bus Queue
 
 - [.NET Core 3.0 Worker with Azure Service Bus Queue](https://github.com/kedacore/sample-dotnet-worker-servicebus-queue) _(Owner: @tomkerkhove)_
+- [Python Azure Functions with Azure ServiceBus Queue](https://github.com/arthuravila26/python-function-servicebus-keda)
 
 #### External Scaler
 
