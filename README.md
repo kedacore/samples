@@ -76,10 +76,6 @@
 - [Scale up and down a HTTP Triggered function app in Kubernetes using KEDA and Prometheus](https://dev.to/anirudhgarg_99/scale-up-and-down-a-http-triggered-function-app-in-kubernetes-using-keda-4m42)
 - [How to Autoscale Kubernetes Pods with Keda - Testing with k6](https://dev.to/k6/how-to-autoscale-kubernetes-pods-with-keda-testing-with-k6-4nl9)
 
-#### RabbitMQ
-
-- [RabbitMQ consumed by Go container](https://github.com/kedacore/sample-go-rabbitmq)
-
 ### Redis
 
 - [Using Redis scaler](https://github.com/nuclearpinguin/keda-example#redis-example)
