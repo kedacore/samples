@@ -80,7 +80,7 @@
 
 - [RabbitMQ consumed by Go container](https://github.com/kedacore/sample-go-rabbitmq)
 
-### Redis
+#### Redis
 
 - [Using Redis scaler](https://github.com/nuclearpinguin/keda-example#redis-example)
 
