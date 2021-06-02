@@ -13,6 +13,10 @@
 
 - [External Scaler using ActiveMQ Artemis broker](https://github.com/balchua/artemis-ext-scaler)
 
+#### GCP PubSub
+
+- [Google Cloud PubSub](https://github.com/kedacore/sample-go-gcppubsub)
+
 #### IBM MQ
 
 - [IBM MQ using a Go consumer & producer](https://github.com/ibm-messaging/mq-dev-patterns/tree/master/Go-K8s)
@@ -20,6 +24,7 @@
 #### Kafka
 
 - [Autoscaling Dapr service based on queue depth](https://github.com/mchmarny/dapr-demos/tree/master/autoscaling-on-queue)
+- [Azure Functions and Kafka on Openshift 4](https://github.com/kedacore/sample-azure-functions-on-ocp4)
 
 #### MySQL
 
@@ -62,12 +67,12 @@
 
 #### GCP PubSub
 
-- [Google Cloud PubSub](https://github.com/kedacore/sample-go-gcppubsub)
+- [Google Cloud PubSub](https://github.com/kedacore/sample-go-gcppubsub/tree/keda1)
 - [.Net Job with Google Cloud PubSub](https://github.com/ross-p-smith/Mercury)
 
 #### Kafka
 
-- [Azure Functions and Kafka on Openshift 4](https://github.com/kedacore/sample-azure-functions-on-ocp4)
+- [Azure Functions and Kafka on Openshift 4](https://github.com/kedacore/sample-azure-functions-on-ocp4/tree/zroubalik-patch-1)
 - [Azure Functions processing tweets from Kafka](https://github.com/kedacore/sample-typescript-kafka-azure-function)
 
 #### Nats Streaming
