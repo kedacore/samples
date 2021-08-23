@@ -75,6 +75,7 @@
 
 - [Azure Functions and Kafka on Openshift 4](https://github.com/kedacore/sample-azure-functions-on-ocp4/tree/zroubalik-patch-1)
 - [Azure Functions processing tweets from Kafka](https://github.com/kedacore/sample-typescript-kafka-azure-function)
+- [Quarkus and Reactive Messaging for Kafka](https://github.com/matzew/kafka-quarkus-keda-scaler)
 
 #### Nats Streaming
 
