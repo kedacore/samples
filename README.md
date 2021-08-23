@@ -24,6 +24,7 @@
 
 #### Kafka
 
+- [Autoscaling of Quarkus Kafka Consumer](https://github.com/matzew/kafka-quarkus-keda-scaler)
 - [Autoscaling Dapr service based on queue depth](https://github.com/mchmarny/dapr-demos/tree/master/autoscaling-on-queue)
 - [Azure Functions and Kafka on Openshift 4](https://github.com/kedacore/sample-azure-functions-on-ocp4)
 
