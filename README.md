@@ -63,6 +63,10 @@
 - [Python jobs with Azure Queue Storage](https://github.com/tomconte/sample-keda-queue-jobs)
 - [.Net Job with Azure Storage Queue](https://github.com/ross-p-smith/Mercury)
 
+#### Azure Blob Storage
+
+-  [Azure Function (.NET Core) consuming Blobs](https://github.com/IsharaPannila/sample-dotnet-blob-azure-function)
+
 #### External Scaler
 
 - [External Scaler that scales workloads based on Twitch chat messages, built on .NET Core](https://github.com/eashi/kaboom-keda-scaler/)
