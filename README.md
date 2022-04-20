@@ -38,7 +38,7 @@
 
 #### Prometheus
 
-- [Autoscale Kubernetes Pods based on ingress request — prometheus, keda, and k6](https://blog.cloudacode.com/how-to-autoscale-kubernetes-pods-based-on-ingress-request-prometheus-keda-and-k6-84ae4250a9f3)
+- [Autoscale Kubernetes pods based on ingress request — Prometheus, KEDA, and K6](https://blog.cloudacode.com/how-to-autoscale-kubernetes-pods-based-on-ingress-request-prometheus-keda-and-k6-84ae4250a9f3)
 
 #### Redis
 
