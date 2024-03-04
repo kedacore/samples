@@ -14,7 +14,6 @@
 
 - [ MongoDB scaling with KEDA on row inserted](https://github.com/karthikeyanVK/mongo-keda-scaler)
 
-
 #### External Scaler
 
 - [External Scaler using ActiveMQ Artemis broker](https://github.com/balchua/artemis-ext-scaler)
