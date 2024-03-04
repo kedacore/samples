@@ -10,6 +10,10 @@
 - [Python Azure Functions with Azure ServiceBus Queue](https://github.com/arthuravila26/python-function-servicebus-keda)
 - [Python Kubernetes Job with Azure Service Bus Queue](https://github.com/prabdeb/sample-python-keda-service-bus-scaler)
 
+#### Mongo DB
+
+- [ MongoDB scaling with KEDA on row inserted](https://github.com/karthikeyanVK/mongo-keda-scaler)
+
 #### External Scaler
 
 - [External Scaler using ActiveMQ Artemis broker](https://github.com/balchua/artemis-ext-scaler)
