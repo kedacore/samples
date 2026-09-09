@@ -43,6 +43,7 @@
 #### Prometheus
 
 - [Autoscale Kubernetes pods based on ingress request — Prometheus, KEDA, and K6](https://blog.cloudacode.com/how-to-autoscale-kubernetes-pods-based-on-ingress-request-prometheus-keda-and-k6-84ae4250a9f3)
+- [Scale a Kubernetes backend from Apache APISIX request metrics](https://github.com/Yilialinn/keda-apisix-prometheus-sample) _(Owner: @Yilialinn)_
 
 #### Redis
 
