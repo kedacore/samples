@@ -1,0 +1,16 @@
+apiVersion: keda.sh/v1alpha1
+kind: ScaledObject
+metadata:
+  name: redis-streams-scaledobject
+spec:
+  scaleTargetRef:
+    name: stream-consumer
+  minReplicaCount: 0
+  maxReplicaCount: 10
+  triggers:
+  - type: redis-streams
+    metadata:
+      address: redis:6379
+      stream: mystream
+      consumerGroup: mygroup
+      pendingEntriesCount: "5"

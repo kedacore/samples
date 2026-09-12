@@ -1,0 +1,21 @@
+apiVersion: batch/v1
+kind: Job
+metadata:
+  name: stream-producer
+spec:
+  template:
+    spec:
+      containers:
+      - name: producer
+        image: redis:7-alpine
+        command: ["sh", "-c"]
+        args:
+        - |
+          echo "Creating consumer group and sending messages..."
+          redis-cli -h redis XGROUP CREATE mystream mygroup 0 MKSTREAM || true
+          for i in $(seq 1 20); do
+            redis-cli -h redis XADD mystream '*' message "test-message-$i" timestamp "$(date)"
+            echo "Sent message $i"
+            sleep 1
+          done
+      restartPolicy: Never

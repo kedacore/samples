@@ -1,0 +1,29 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: stream-consumer
+spec:
+  selector:
+    matchLabels:
+      app: stream-consumer
+  template:
+    metadata:
+      labels:
+        app: stream-consumer
+    spec:
+      containers:
+      - name: consumer
+        image: redis:7-alpine
+        env:
+        - name: REDIS_URL
+          value: "redis:6379"
+        command: ["sh", "-c"]
+        args:
+        - |
+          echo "Redis Streams Consumer started"
+          while true; do
+            # Simulate processing messages from the stream
+            redis-cli -h redis XREADGROUP GROUP mygroup consumer1 COUNT 1 BLOCK 1000 STREAMS mystream > || true
+            echo "Processed message from stream"
+            sleep 2
+          done
