@@ -22,6 +22,9 @@
 
 - [Google Cloud PubSub](https://github.com/kedacore/sample-go-gcppubsub)
 
+#### Cron Trigger
+- [Cron Trigger](https://github.com/mukeshpanch14/keda-triggers-sample/tree/main/cron)
+
 #### IBM MQ
 
 - [IBM MQ using a Go consumer & producer](https://github.com/ibm-messaging/mq-dev-patterns/tree/master/Go-K8s)
